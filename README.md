@@ -1,2 +1,3 @@
-# react-native-AndroidDemo
-one android demp
+#react-native-RES
+
+first commit --- zx
