@@ -1,3 +1,3 @@
-#react-native-RES
+#react-native-AndroidDemo
 
-first commit --- zx
+initial commit 
