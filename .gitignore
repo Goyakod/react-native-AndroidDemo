@@ -1,2 +1,9 @@
-/node_modules/*
-/android/build/*
+android/.gradle/
+android/build/
+android/app/build/
+android/build/intermediates/dex-cache/cache.xml
+android/app/build/outputs/apk/app-debug.apk
+android/app/build/outputs/apk/app-debug-unaligned.apk
+node_modules
+.idea/
+local.properties
